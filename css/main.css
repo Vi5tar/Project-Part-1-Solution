@@ -16,3 +16,11 @@ h1 {
 img {
   max-width: 100%;
 }
+
+/* zocial */
+
+[class*="zocial-"]:before {
+  display: inline-block;
+  font-family: 'zocial', sans-serif;
+  width: 20vw;
+}
